@@ -11,7 +11,7 @@ public class ex_1 {
 		 char varChar = '4';
 		 float varFloat = 10000.1f;
 		 	 
-		 Integer varInteger = 1;
+		 Integer varInteger = null;
 		 Long varLongM = 1l;
 		 String varString = "daskjdksnkan";
 		 Double varDouble =  10000.1;
