@@ -13,7 +13,7 @@ public class ex_1 {
 		 	 
 		 Integer varInteger = 1;
 		 Long varLongM = 1l;
-		 String varString = "Erika daskjdksnkan";
+		 String varString = "daskjdksnkan";
 		 Double varDouble =  10000.1;
 		 
 		 
