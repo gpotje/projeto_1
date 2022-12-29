@@ -12,7 +12,7 @@ public class List1_1 {
 		Scanner s = new Scanner(System.in);
 		String nome = "";
 		
-		System.out.println("Digite um nome por favor: " + nome);
+		System.out.println("Digite um nome por favor: ");
 		nome = s.next();
 		
 		System.out.println("o nome digitado foi: " + nome);

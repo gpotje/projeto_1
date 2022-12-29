@@ -25,8 +25,8 @@ public class List1_2 {
 		
 		soma = n1 + n2 ;
 		
-		System.out.println("o 1° digitado foi: " + n1 + "o 2° digitado foi: "+ n2 + 
-				"a soma entre os dois é: " + soma);
+		System.out.println("o 1° numero digitado foi: " + n1 + " o 2° numero digitado foi: "+ n2 + 
+				" a soma entre os dois é: " + soma);
 		
 		
 	}
