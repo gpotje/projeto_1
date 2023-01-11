@@ -1,8 +1,15 @@
 package br.com.exercio.um.foor.alinhado;
 
+import java.util.Scanner;
+
 public class List1 {
 
 	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		
+		System.out.println("digite um caracter");
+		String c = s.next();
 
 		for (int coluna = 1; coluna < 4; coluna++) {
 
@@ -12,11 +19,7 @@ public class List1 {
 				if (linha == 1) {
 					System.out.print("|");
 				}
-				if (linha == coluna) {
-					System.out.print("O" + "|");
-				} else {
-					System.out.print("X" + "|");
-				}
+				System.out.print(c+"|");
 
 			}
 			System.out.println();
