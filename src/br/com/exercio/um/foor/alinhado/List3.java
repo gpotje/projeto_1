@@ -26,7 +26,7 @@ public class List3 {
 				}
 
 				if (linhaFor == colunaFor) {
-					System.out.print("O" + "|");
+					System.out.print("Erika" + "|");
 				} else {
 					System.out.print("X" + "|");
 				}
