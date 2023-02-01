@@ -1,8 +1,0 @@
-Lista 1 criação de variáveis:
-
-Crie uma variável do tipo string sem modificador de acesso e armazene seu nome usando o Scanner e imprima na tela usando o println.
-Crie 2 variáveis do tipo ‘int’ solicite para o usuário digitar 2 números inteiros capture através do scan some os números e print na tela usando o  println.
-Crie 3 variáveis do tipo ‘int’ solicite para o usuário digitar 3 números inteiros capture através do scan some os números e print na tela usando o  println.
-Crie 4 variáveis do tipo ‘int’ solicite para o usuário digitar 4 números inteiros capture através do scan some os números e print na tela usando o  println.
-Crie 4 variáveis do tipo ‘int’ solicite para o usuário digitar 2 números inteiros capture através do scan faça a média dos números e print na tela usando o  println.
-Crie uma variável do tipo ‘float’  solicite para o usuário digitar um valor em ponto flutuante capture através do scan e print na tela usando println.
